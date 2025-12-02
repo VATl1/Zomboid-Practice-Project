@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item>
+        <ID>1</ID>
+        <Name>Hammer</Name>
+        <Type>Tool</Type>
+        <Condition>Mint</Condition>
+        <Amount>10</Amount>
+    </item>
+    <item>
+        <ID>2</ID>
+        <Name>Nails</Name>
+        <Type>Fasteners</Type>
+        <Condition>Good</Condition>
+        <Amount>450</Amount>
+    </item>
+    <item>
+        <ID>3</ID>
+        <Name>Nails</Name>
+        <Type>Fasteners</Type>
+        <Condition>Bad</Condition>
+        <Amount>100</Amount>
+    </item>
+    <item>
+        <ID>4</ID>
+        <Name>Water</Name>
+        <Type>Beverage</Type>
+        <Condition>Good</Condition>
+        <Amount>50</Amount>
+    </item>
+    <item>
+        <ID>5</ID>
+        <Name>Bandage</Name>
+        <Type>Medical</Type>
+        <Condition>Average</Condition>
+        <Amount>25</Amount>
+    </item>
+</items>

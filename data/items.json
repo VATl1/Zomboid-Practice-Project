@@ -1,0 +1,37 @@
+[
+  {
+    "ID": 1,
+    "Name": "Hammer",
+    "Type": "Tool",
+    "Condition": "Mint",
+    "Amount": 10
+  },
+  {
+    "ID": 2,
+    "Name": "Nails",
+    "Type": "Fasteners",
+    "Condition": "Good",
+    "Amount": 450
+  },
+  {
+    "ID": 3,
+    "Name": "Nails",
+    "Type": "Fasteners",
+    "Condition": "Bad",
+    "Amount": 100
+  },
+  {
+    "ID": 4,
+    "Name": "Water",
+    "Type": "Beverage",
+    "Condition": "Good",
+    "Amount": 50
+  },
+  {
+    "ID": 5,
+    "Name": "Bandage",
+    "Type": "Medical",
+    "Condition": "Average",
+    "Amount": 25
+  }
+]

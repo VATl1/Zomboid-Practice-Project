@@ -1,0 +1,6 @@
+ID,Name,Type,Condition,Amount
+1,Hammer,Tool,Mint,10
+2,Nails,Fasteners,Good,450
+3,Nails,Fasteners,Bad,100
+4,Water,Beverage,Good,50
+5,Bandage,Medical,Average,25

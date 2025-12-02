@@ -9,23 +9,6 @@ def connect():
     return sqlite3.connect(DB_PATH)
 
 
-def init_db():
-
-    conn = connect()
-    cur = conn.cursor()
-    cur.execute(
-        """
-        CREATE TABLE IF NOT EXISTS items (
-            id INTEGER PRIMARY KEY AUTOINCREMENT,
-            name TEXT NOT NULL,
-            type TEXT NOT NULL,
-            condition TEXT NOT NULL,
-            amount INTEGER NOT NULL
-        );
-        """
-    )
-    conn.commit()
-    conn.close()
 
 
 def get_all_items():
